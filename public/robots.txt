@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tizaoburger.com.br/sitemap.xml
